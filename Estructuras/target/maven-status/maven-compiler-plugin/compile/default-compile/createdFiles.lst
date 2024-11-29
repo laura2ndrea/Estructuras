@@ -1,3 +1,11 @@
-campuslands/estructuras/Main.class
-campuslands/estructuras/ListaDoble.class
-campuslands/estructuras/Nodo.class
+campuslands\estructuras\NodoPC.class
+campuslands\estructuras\Persona.class
+campuslands\estructuras\Pila.class
+campuslands\estructuras\MainCola.class
+campuslands\estructuras\ListaDoble.class
+campuslands\estructuras\MainDoble.class
+campuslands\estructuras\MainPila.class
+campuslands\estructuras\Cola.class
+campuslands\estructuras\MainCircular.class
+campuslands\estructuras\Nodo.class
+campuslands\estructuras\ListaCircular.class
